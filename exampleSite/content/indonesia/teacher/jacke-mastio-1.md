@@ -1,36 +1,36 @@
 +++
 bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
-course = "Computer Science"
+course = "Guru Teknologi"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 draft = true
 image = "images/teachers/teacher-2.jpg"
-interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]
-title = "Jacke Mastio"
+interest = ["Tim Rumah Sakha", "Web Dev & Design Rumah Sakha"]
+title = "Riskal Ahyat"
 [[contact]]
 icon = "ti-email"
-link = "mailto:clarkmalik@email.com"
-name = "clarkmalik@email.com"
+link = "mailto:riskalahyat@rumahsakha.my.id"
+name = "riskalahyat@rumahsakha.my.id"
 [[contact]]
 icon = "ti-mobile"
-link = "tel:+120345876"
-name = "+12 034 5876"
+link = "tel:+6282281129990"
+name = "+62 822 8112 9990"
 [[contact]]
 icon = "ti-facebook"
 link = "#"
-name = "Clark Malik"
+name = "Riskal Ahyat"
 [[contact]]
 icon = "ti-twitter-alt"
 link = "#"
-name = "Clark Malik"
+name = "@ahyat098"
 [[contact]]
-icon = "ti-skype"
+icon = "ti-instagram"
 link = "#"
-name = "Clark Malik"
+name = "@_ahyat098"
 [[contact]]
 icon = "ti-world"
-link = "#"
-name = "clarkmalik.com"
+link = "https://instagram.com/_ahyat098"
+name = "pistislitae.my.id"
 [[contact]]
 icon = "ti-location-pin"
 link = "#"
