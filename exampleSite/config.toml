@@ -1,5 +1,5 @@
 DefaultContentLanguage = "id"
-baseURL = "http://rumahsakha.netlify.com"
+baseURL = "https://rumahsakha.netlify.com/"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
