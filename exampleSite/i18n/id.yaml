@@ -1,0 +1,113 @@
+- id: read_more
+  translation: Baca lengkap
+
+- id: contact_form
+  translation: Form kontak
+
+- id: send
+  translation: Kirim
+
+- id: contact_info
+  translation: Kontak Info
+
+- id: subscribe_newsletter
+  translation: Dapatkan Info Terbaru
+
+- id: subscribe
+  translation: Berlangganan
+
+- id: contact_us
+  translation: Kontak Kami
+
+- id: latest_article
+  translation: Artikel terbaru
+
+- id: categories
+  translation: Ketegori
+
+- id: tags
+  translation: Tagar
+
+- id: see_all
+  translation: Lihat semua
+
+- id: apply_now
+  translation: Pesan
+
+- id: posted_by
+  translation: Urut postingan
+
+- id: date
+  translation: Tanggal
+
+- id: time
+  translation: Waktu
+
+- id: category
+  translation: Kategori
+
+- id: related_course
+  translation: kursus relayer
+
+- id: duration
+  translation: Durasi
+
+- id: weekly
+  translation: Jadwal
+
+- id: fee
+  translation: Biaya
+
+- id: teacher
+  translation: Guru
+
+- id: location
+  translation: Lokasi
+
+- id: entry_fee
+  translation: Biaya masuk
+
+- id: event_speaker
+  translation: Pembicara
+
+- id: more_event
+  translation: Event lainnya
+
+- id: join
+  translation: Bergabung
+
+- id: enter_email
+  translation: Masukkan email kamu...
+
+- id: company
+  translation: Profil
+
+- id: links
+  translation: Link
+
+- id: courses
+  translation: Kelas
+
+- id: new_notice
+  translation: Kegiatan
+
+- id: call
+  translation: No.Hp
+
+- id: email
+  translation: E-mail
+
+- id: all
+  translation: Semua
+
+- id: interest
+  translation: RÉSUMÉ DES ACTIVITÉS/INTÉRÊTS
+
+- id: our_teachers
+  translation: Guru Kami
+
+- id: download
+  translation: Unduh
+
+- id: About
+  translation: Tentang
