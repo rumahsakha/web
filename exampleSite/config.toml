@@ -15,7 +15,7 @@ languageCode = "en-us"
 languageName = "English"
 weight = 2
 
-[[languages.en.menu.foooter]]
+[[languages.en.menu.footer]]
 
 URL = "teacher"
 name = "teacher"
@@ -67,7 +67,7 @@ languageCode = "id-id"
 languageName = "Indonesia"
 weight = 1
 
-[[languages.id.menu.foooter]]
+[[languages.id.menu.footer]]
 
 URL = "teacher"
 name = "Guru"
