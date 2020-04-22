@@ -5,7 +5,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Rumah Sakha | Rumah Anak Cerdas!"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -14,6 +14,50 @@ kelas = "Class"
 languageCode = "en-us"
 languageName = "English"
 weight = 2
+
+[[languages.en.menu.foooter]]
+
+URL = "teacher"
+name = "teacher"
+URL = "notice"
+name = "notice"
+URL = "event"
+name = "event"
+URL = "scholarship"
+name = "scholarship"
+URL = "research"
+name = "research"
+
+[[languages.en.menu.main]]
+
+URL = "about"
+name = "About"
+weight = 1
+URL = "course"
+name = "Class"
+weight = 2
+hasChildren = true
+name = "Pages"
+weight = 3
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+URL = "notice"
+name = "notice"
+parent = "Pages"
+URL = "event"
+name = "event"
+parent = "Pages"
+URL = "research"
+name = "GerakanBerbagi"
+parent = "Pages"
+URL = "blog"
+name = "blog"
+weight = 4
+URL = "contact"
+name = "Contact"
+weight = 5
+
 [Languages.id]
 About = "Tentang"
 contentDir = "content/indonesia"
@@ -22,57 +66,51 @@ home = "Beranda"
 languageCode = "id-id"
 languageName = "Indonesia"
 weight = 1
-[[menu.footer]]
+
+[[languages.id.menu.foooter]]
+
 URL = "teacher"
-name = "teacher"
-[[menu.footer]]
+name = "Guru"
 URL = "notice"
-name = "notice"
-[[menu.footer]]
+name = "Catatan"
 URL = "event"
-name = "event"
-[[menu.footer]]
+name = "Acara"
 URL = "scholarship"
 name = "scholarship"
-[[menu.footer]]
 URL = "research"
-name = "research"
-[[menu.main]]
+name = "GerakanBerbagi"
+
+[[languages.id.menu.main]]
+
 URL = "about"
-name = "About"
+name = "Tentang"
 weight = 1
-[[menu.main]]
 URL = "course"
-name = "Class"
+name = "Kelas"
 weight = 2
-[[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 3
-[[menu.main]]
 URL = "teacher"
-name = "teacher"
+name = "Guru dan Tim"
 parent = "Pages"
-[[menu.main]]
 URL = "notice"
-name = "notice"
+name = "Catatan"
 parent = "Pages"
-[[menu.main]]
 URL = "event"
-name = "event"
+name = "Acara"
 parent = "Pages"
-[[menu.main]]
 URL = "research"
 name = "GerakanBerbagi"
 parent = "Pages"
-[[menu.main]]
 URL = "blog"
-name = "blog"
+name = "Blog"
 weight = 4
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontak"
 weight = 5
+
+
 [params]
 address = "Muara Enim"
 author = "Riskal Ahyat"
